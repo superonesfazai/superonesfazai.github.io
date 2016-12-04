@@ -1,16 +1,16 @@
 {
-  "name": "overtrue.github.io",
-  "description": "overtrue blog",
+  "name": "superonesfazai.github.io",
+  "description": "super_fazai blog",
   "main": "",
   "authors": [
-    "overtrue <anzhengchao@gmail.com>"
+    "overtrue <superonesfazai@gmail.com>"
   ],
   "license": "MIT",
   "keywords": [
-    "overtrue",
+    "super_fazai",
     "blog"
   ],
-  "homepage": "https://github.com/overtrue/overtrue.github.io",
+  "homepage": "https://github.com/superonesfazai/superonesfazai.github.io",
   "moduleType": [],
   "ignore": [
     "**/.*",
@@ -23,7 +23,7 @@
     "octicons": "*",
     "primer-markdown": "*",
     "primer-css": "~2.1.0",
-    "share.js": "overtrue-share.js#*",
+    "share.js": "superonesfazai-share.js#*",
     "jquery": "~2.1.4"
   }
 }

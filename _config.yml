@@ -1,20 +1,20 @@
-title: overtrue | 安正超博客
-name: overtrue
-email: anzhengchao@gmail.com
-description: 安正超(overtrue)，PHP工程师，从事web相关的开发工作。开源爱好者，GitHub:https://github.com/overtrue。
-keywords: Laravel,Laravel教程,Laravel安装,Laravel视频,安正超,PHP,overtrue,Pinyin,汉字转拼音
-skill_keywords: [PHP, Javascript, HTML+CSS, Swift, Linux, Laravel, Git, Mac, RESTful, Stackoverflow, Sublime Text, OmniGaffale, OmniPlan]
+title: super_fazai | super_fazai's Blog
+name: super_fazai
+email: superonesfazai@gmail.com
+description: super_fazai，软件工程师，从事软件的开发工作。开源爱好者，GitHub:https://github.com/superonesfazai。
+keywords: super_fazai
+skill_keywords: [Linux, Git, Android, 安全, sql, Java, c/c++, 服务器, Rudy, Javascript, HTML+CSS, Swift, Laravel,  Mac, RESTful]
 
 timezone:    PRC
 encoding: "utf-8"
 
-url: http://overtrue.me
+url: http://superonesfazai.github.io
 baseurl:  "/"
-domain:    overtrue.me
+domain:    superonesfazai.github.io
 permalink:     /articles/:year/:month/:title.html
 paginate_path: 'page:num'
 paginate:   10
-source_code: https://github.com/overtrue/overtrue.github.io
+source_code: https://github.com/superonesfazai/superonesfazai.github.io
 
 # Build settings
 lsi:         false
@@ -45,7 +45,7 @@ gems:
   - jekyll-paginate
 
 disqus:
-  id: overtrueme
+  id: superonesfazai
 
 google:
     analytics_id: UA-55452630-1
@@ -61,13 +61,13 @@ navs:
     label: Open-Source
 
   -
-    href: https://github.com/overtrue
+    href: https://github.com/superonesfazai
     label: GitHub
     target: _blank
 
   -
-    href: http://weibo.com/44294631
-    label: Weibo
+    href: http://twitter.com
+    label: twitter
     target: _blank
 
   -
