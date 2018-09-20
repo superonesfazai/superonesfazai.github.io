@@ -3,7 +3,7 @@ name: super_fazai
 email: superonesfazai@gmail.com
 description: super_fazai，软件工程师，从事软件的开发工作。开源爱好者，GitHub:https://github.com/superonesfazai
 keywords: super_fazai
-skill_keywords: [Linux, Git, Android, 安全, sql, Java, c/c++, 服务器, Rudy, Javascript, HTML+CSS, Swift, Laravel,  Mac, RESTful]
+skill_keywords: [Linux, Git, Android, 安全, python, 爬虫, sql, c/c++, 服务器, Rudy, Javascript, HTML+CSS, Swift, Laravel, Mac]
 
 timezone:    PRC
 encoding: "utf-8"
@@ -79,5 +79,5 @@ navs:
     label: About
 
 public_repositories: []
-popular_repos: ['pinyin', 'wechat', 'writor', 'laravel-wechat', 'laravel-lang', 'laravel-pinyin', 'latest-laravel', 'latest-lumen']
-contribute_repos: ['overtrue/wechat', 'EasyWeChat/site', 'laravel/framework', 'caouecs/Laravel-lang']
+popular_repos: ['python', 'fzutils', 'fz_ip_pool']
+contribute_repos: ['superonesfazai/python', 'superonesfazai/fzutils', 'superonesfazai/fz_ip_pool']
