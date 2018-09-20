@@ -4,6 +4,8 @@
     <list default="true" id="af6799f3-8773-4c9f-b9f7-a6a28d32556d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2016-12-09-(Linux)在Ubuntu下搭建VPN服务器的方法.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2016-12-09-(Linux)在Ubuntu下搭建VPN服务器的方法.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2016-12-09-常用工具集.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2016-12-09-常用工具集.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -27,11 +29,11 @@
           <entry key="html" value="28" />
           <entry key="js" value="2" />
           <entry key="json" value="3" />
-          <entry key="md" value="37" />
+          <entry key="md" value="42" />
           <entry key="png" value="2" />
           <entry key="scss" value="1" />
           <entry key="xml" value="2" />
-          <entry key="yml" value="2" />
+          <entry key="yml" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
@@ -40,24 +42,24 @@
           <entry key="Image" value="2" />
           <entry key="JSON" value="3" />
           <entry key="JavaScript" value="2" />
-          <entry key="Markdown" value="37" />
+          <entry key="Markdown" value="42" />
           <entry key="PLAIN_TEXT" value="3" />
           <entry key="SCSS" value="1" />
           <entry key="XML" value="2" />
-          <entry key="YAML" value="2" />
+          <entry key="YAML" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="html" value="23" />
-          <entry key="md" value="137" />
+          <entry key="md" value="143" />
           <entry key="yml" value="69" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="HTML" value="23" />
-          <entry key="Markdown" value="137" />
+          <entry key="Markdown" value="143" />
           <entry key="YAML" value="69" />
         </counts>
       </usages-collector>
@@ -82,7 +84,6 @@
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/_posts/2018-09-20-fz_ip_pool.md" />
         <option value="$PROJECT_DIR$/_posts/2018-09-20-fzutils.md" />
-        <option value="$PROJECT_DIR$/_posts/2016-12-09-常用工具集.md" />
         <option value="$PROJECT_DIR$/_posts/2016-12-09-几款优秀的前端UI框架.md" />
         <option value="$PROJECT_DIR$/_posts/2016-12-06-常用文档入口.md" />
         <option value="$PROJECT_DIR$/_posts/2016-12-05-使用Hydra通过ssh破解密码.md" />
@@ -94,6 +95,8 @@
         <option value="$PROJECT_DIR$/assets/vendor/overtrue-share.js/README.md" />
         <option value="$PROJECT_DIR$/_includes/bookmarks.html" />
         <option value="$PROJECT_DIR$/_config.yml" />
+        <option value="$PROJECT_DIR$/_posts/2016-12-09-常用工具集.md" />
+        <option value="$PROJECT_DIR$/_posts/2016-12-09-(Linux)在Ubuntu下搭建VPN服务器的方法.md" />
       </list>
     </option>
   </component>
@@ -130,11 +133,6 @@
             <path>
               <item name="superonesfazai.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="superonesfazai.github.io" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="superonesfazai.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="superonesfazai.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="_posts" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -209,13 +207,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="16" lean-forward="true" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2014-09-10-hello.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -256,41 +247,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-09-20-fzutils.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="105">
-            <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-09-20-fz_ip_pool.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="150">
-            <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2016-12-09-建立网站的全套流程与详细解释_super_fazai.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="75">
             <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2016-12-09-常用工具集.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="165">
-            <caret line="11" selection-start-line="11" selection-end-line="11" />
           </first_editor>
           <second_editor />
         </state>
@@ -311,16 +272,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="180">
             <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2016-12-09-(Linux)在Ubuntu下搭建VPN服务器的方法.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="285">
-            <caret line="47" column="6" lean-forward="true" selection-start-line="47" selection-start-column="6" selection-end-line="47" selection-end-column="6" />
           </first_editor>
           <second_editor />
         </state>
@@ -617,10 +568,60 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-09-20-fz_ip_pool.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="150">
+            <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-09-20-fzutils.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="105">
+            <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2016-12-09-常用工具集.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="225">
+            <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/_config.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="858">
-          <caret line="82" column="98" lean-forward="true" selection-start-line="82" selection-start-column="98" selection-end-line="82" selection-end-column="98" />
+        <state relative-caret-position="303">
+          <caret line="45" lean-forward="true" selection-start-line="45" selection-end-line="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2016-12-08-ubuntu解决连接服务器语言设置错误的问题.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="165">
+            <caret line="11" column="22" lean-forward="true" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2016-12-09-(Linux)在Ubuntu下搭建VPN服务器的方法.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="60">
+            <caret line="4" selection-start-line="4" selection-end-line="4" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
