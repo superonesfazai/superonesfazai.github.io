@@ -7,7 +7,7 @@
 
 [DEMO](http://overtrue.me/share.js/)
 
-或者直接浏览我的博客 http://overtrue.me 或者 http://laravel.so 内容页查看效果。
+或者直接浏览博客 http://overtrue.me 或者 http://laravel.so 内容页查看效果。
 
 # 安装
 
@@ -102,8 +102,6 @@ wechatQrcodeHelper  : '<p>微信里点“发现”，扫一下</p><p>二维码�
 </div>
 ```
 以上a标题会自动加上分享链接（`a` 标签必须带 `icon-NAME` 属性，不然分享链接不会自动加上）。
-
-欢迎贡献代码及提建议！
 
 # License
 
