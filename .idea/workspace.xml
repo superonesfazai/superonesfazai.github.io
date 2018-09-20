@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="af6799f3-8773-4c9f-b9f7-a6a28d32556d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/_posts/2018-09-20-分布式一致.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2016-12-04-Linux下添加_删除_修改_查看用户和用户组.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2016-12-04-Linux下添加_删除_修改_查看用户和用户组.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2016-12-04-shell-awk-检查程序是否执行.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2016-12-04-shell-awk-检查程序是否执行.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2016-12-06-常用文档入口.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2016-12-06-常用文档入口.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2016-12-08-ubuntu解决连接服务器语言设置错误的问题.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2016-12-08-ubuntu解决连接服务器语言设置错误的问题.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2016-12-08-劫持Chrome浏览器的新方法.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2016-12-08-劫持Chrome浏览器的新方法.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2016-12-09-(Linux)在Ubuntu下搭建VPN服务器的方法.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2016-12-09-(Linux)在Ubuntu下搭建VPN服务器的方法.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2016-12-09-6个有趣的Linux命令.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2016-12-09-6个有趣的Linux命令.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2016-12-09-人肉搜索技巧.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2016-12-09-人肉搜索技巧.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2016-12-09-常用工具集.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2016-12-09-常用工具集.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2016-12-09-建立网站的全套流程与详细解释_super_fazai.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2016-12-09-建立网站的全套流程与详细解释_super_fazai.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/open-source.html" beforeDir="false" afterPath="$PROJECT_DIR$/open-source.html" afterDir="false" />
-    </list>
+    <list default="true" id="af6799f3-8773-4c9f-b9f7-a6a28d32556d" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +24,7 @@
           <entry key="html" value="34" />
           <entry key="js" value="3" />
           <entry key="json" value="3" />
-          <entry key="md" value="66" />
+          <entry key="md" value="67" />
           <entry key="png" value="2" />
           <entry key="scss" value="1" />
           <entry key="xml" value="2" />
@@ -51,7 +37,7 @@
           <entry key="Image" value="2" />
           <entry key="JSON" value="3" />
           <entry key="JavaScript" value="3" />
-          <entry key="Markdown" value="66" />
+          <entry key="Markdown" value="67" />
           <entry key="PLAIN_TEXT" value="4" />
           <entry key="SCSS" value="1" />
           <entry key="XML" value="2" />
@@ -152,6 +138,11 @@
             <path>
               <item name="superonesfazai.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="superonesfazai.github.io" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="superonesfazai.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="superonesfazai.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="_posts" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -642,8 +633,8 @@
     <entry file="file://$PROJECT_DIR$/_posts/2018-09-20-分布式一致.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="60">
-            <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+          <first_editor relative-caret-position="75">
+            <caret line="5" column="7" lean-forward="true" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
           </first_editor>
           <second_editor />
         </state>
