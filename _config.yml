@@ -11,7 +11,7 @@ encoding: "utf-8"
 url: http://superonesfazai.github.io
 baseurl:  "/"
 domain:    superonesfazai.github.io
-permalink:     /articles/:year/:month/:title.html
+permalink:     /articles/:year/:month/:day/:title.html
 paginate_path: 'page:num'
 paginate:   10
 source_code: https://github.com/superonesfazai/superonesfazai.github.io
