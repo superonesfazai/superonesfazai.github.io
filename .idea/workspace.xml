@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="af6799f3-8773-4c9f-b9f7-a6a28d32556d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/_posts/2018-09-21-rpc远程过程调用之利用rabbitmq实现rpc.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/2018-09-21-分布式架构之ray包.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2016-12-09-(Linux)在Ubuntu下搭建VPN服务器的方法.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2016-12-09-(Linux)在Ubuntu下搭建VPN服务器的方法.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/about.md" beforeDir="false" afterPath="$PROJECT_DIR$/about.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/2018-09-21-动态页面爬取之splash动态渲染.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2018-09-21-分布式架构之ray包.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-09-21-分布式架构之ray包.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -31,7 +27,7 @@
           <entry key="html" value="36" />
           <entry key="js" value="3" />
           <entry key="json" value="3" />
-          <entry key="md" value="76" />
+          <entry key="md" value="80" />
           <entry key="png" value="2" />
           <entry key="py" value="1" />
           <entry key="scss" value="1" />
@@ -45,7 +41,7 @@
           <entry key="Image" value="2" />
           <entry key="JSON" value="3" />
           <entry key="JavaScript" value="3" />
-          <entry key="Markdown" value="76" />
+          <entry key="Markdown" value="80" />
           <entry key="PLAIN_TEXT" value="4" />
           <entry key="Python" value="1" />
           <entry key="SCSS" value="1" />
@@ -56,14 +52,14 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="html" value="24" />
-          <entry key="md" value="319" />
+          <entry key="md" value="335" />
           <entry key="yml" value="74" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="HTML" value="24" />
-          <entry key="Markdown" value="319" />
+          <entry key="Markdown" value="335" />
           <entry key="YAML" value="74" />
         </counts>
       </usages-collector>
@@ -86,6 +82,7 @@
       <find>我的</find>
       <find>contribute_repos</find>
       <find>boxed-group-inner mini-repo-list</find>
+      <find>，</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -122,6 +119,7 @@
         <option value="$PROJECT_DIR$/_posts/2018-09-21-rpc远程过程调用之利用rabbitmq实现rpc.md" />
         <option value="$PROJECT_DIR$/_posts/2018-09-21-分布式架构之ray包.py" />
         <option value="$PROJECT_DIR$/_posts/2018-09-21-分布式架构之ray包.md" />
+        <option value="$PROJECT_DIR$/_posts/2018-09-21-动态页面爬取之splash动态渲染.md" />
       </list>
     </option>
   </component>
@@ -232,13 +230,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/CNAME">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -642,16 +633,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-09-21-分布式架构之ray包.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="60">
-            <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_layouts/default.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -663,6 +644,26 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="9" column="14" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-09-21-分布式架构之ray包.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="132">
+            <caret line="10" column="12" lean-forward="true" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-09-21-动态页面爬取之splash动态渲染.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="315">
+            <caret line="688" column="3" lean-forward="true" selection-start-line="688" selection-start-column="3" selection-end-line="688" selection-end-column="3" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
