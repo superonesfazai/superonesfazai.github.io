@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="af6799f3-8773-4c9f-b9f7-a6a28d32556d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/_posts/2018-09-25-死磕python字节码之手工还原python源码.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
