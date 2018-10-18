@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="af6799f3-8773-4c9f-b9f7-a6a28d32556d" name="Default Changelist" comment="" />
+    <list default="true" id="af6799f3-8773-4c9f-b9f7-a6a28d32556d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/_posts/2018-10-18-为什么基金名字带A类、B类、C类、D类、E类?.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,11 +16,12 @@
       <usages-collector id="statistics.lifecycle.project">
         <counts>
           <entry key="project.closed" value="3" />
+          <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.18" value="1" />
           <entry key="project.open.time.5" value="1" />
           <entry key="project.open.time.51" value="1" />
           <entry key="project.open.time.56" value="1" />
-          <entry key="project.opened" value="4" />
+          <entry key="project.opened" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -28,7 +32,7 @@
           <entry key="html" value="36" />
           <entry key="js" value="3" />
           <entry key="json" value="3" />
-          <entry key="md" value="117" />
+          <entry key="md" value="119" />
           <entry key="png" value="2" />
           <entry key="py" value="1" />
           <entry key="scss" value="1" />
@@ -42,7 +46,7 @@
           <entry key="Image" value="2" />
           <entry key="JSON" value="3" />
           <entry key="JavaScript" value="3" />
-          <entry key="Markdown" value="117" />
+          <entry key="Markdown" value="119" />
           <entry key="PLAIN_TEXT" value="5" />
           <entry key="Python" value="1" />
           <entry key="SCSS" value="1" />
@@ -53,14 +57,14 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="html" value="24" />
-          <entry key="md" value="1075" />
+          <entry key="md" value="1095" />
           <entry key="yml" value="83" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="HTML" value="24" />
-          <entry key="Markdown" value="1073" />
+          <entry key="Markdown" value="1093" />
           <entry key="Python" value="2" />
           <entry key="YAML" value="83" />
         </counts>
@@ -140,6 +144,7 @@
         <option value="$PROJECT_DIR$/_posts/2018-09-22-推荐的图床.md" />
         <option value="$PROJECT_DIR$/_posts/2018-09-25-异步高并发抓取纹身520.md" />
         <option value="$PROJECT_DIR$/_posts/2018-09-25-死磕python字节码之手工还原python源码.md" />
+        <option value="$PROJECT_DIR$/_posts/2018-10-18-为什么基金名字带A类、B类、C类、D类、E类?.md" />
       </list>
     </option>
   </component>
@@ -225,9 +230,9 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1920" height="1080" extended-state="0" />
+    <frame x="0" y="0" width="1920" height="1080" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12353568" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.11288605" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -257,16 +262,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/_posts/2014-10-02-bookmarks.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="90">
-            <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2014-10-11-config-zsh-on-osx.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -720,7 +715,19 @@
     <entry file="file://$PROJECT_DIR$/_posts/2018-09-25-进程池实现高并发异步抓取pc版淘宝头条.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor />
+          <first_editor>
+            <caret selection-end-line="3" selection-end-column="3" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-10-18-为什么基金名字带A类、B类、C类、D类、E类?.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="390">
+            <caret line="26" column="10" lean-forward="true" selection-start-line="26" selection-start-column="10" selection-end-line="26" selection-end-column="10" />
+          </first_editor>
           <second_editor />
         </state>
       </provider>
